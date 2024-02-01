@@ -1,4 +1,4 @@
-# Minor_Progect_2023_python
+# Minesweeper_Progect_2023_python
 
 The project is based on the module "Programming in Python", made by Alla Kibereva and Zlata Obrazumova (https://github.com/ZlatikObr). 
 
