@@ -1,0 +1,2 @@
+# Minor_Progect_2023_python
+Minor_Progect_2023_python
